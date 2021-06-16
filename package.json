@@ -1,6 +1,6 @@
 {
-  "name": "loopback-connector-es",
-  "version": "1.4.1",
+  "name": "@sansitech/loopback-connector-es",
+  "version": "1.4.2",
   "description": "Connect LoopBack to Elasticsearch engine",
   "main": "index.js",
   "scripts": {
@@ -39,7 +39,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop-community/loopback-connector-elastic-search.git"
+    "url": "https://github.com/hehejiuhuizhe/loopback-connector-elastic-search"
   },
   "license": {
     "name": "MIT",
@@ -48,7 +48,7 @@
   "bugs": {
     "url": "https://github.com/strongloop-community/loopback-connector-elastic-search/issues"
   },
-  "homepage": "https://github.com/strongloop-community/loopback-connector-elastic-search",
+  "homepage": "https://github.com/hehejiuhuizhe/loopback-connector-elastic-search",
   "dependencies": {
     "async": "^0.9.0",
     "bluebird": "^2.9.14",
